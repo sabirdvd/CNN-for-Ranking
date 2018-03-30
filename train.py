@@ -10,10 +10,6 @@ import tensorflow as tf
 from collections import Counter
 from Ranking import Ranking
 
-# Parameters
-# ==================================================
-
-
 def pad_sentences(sentences, sequence_length, padding_word="<PAD/>"):
     padded_sentences = []
     for i in range(len(sentences)):
