@@ -12,8 +12,8 @@ from Ranking import Ranking
 #word2vec = None
 word2vec = '/Users/your_home/Desktop/CNN-Ranking-master/data/w2v/GoogleNews-vectors-negative300.bin'
 
-# Parameters
-# ==================================================
+
+# ==============================================================
 
 
 def pad_sentences(sentences, sequence_length, padding_word="<PAD/>"):
