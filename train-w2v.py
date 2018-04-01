@@ -10,7 +10,7 @@ import tensorflow as tf
 from collections import Counter
 from Ranking import Ranking
 #word2vec = None
-word2vec = '/Users/your_home/Desktop/CNN-Ranking-master/data/w2v/GoogleNews-vectors-negative300.bin'
+word2vec = '/Users/your_name/Desktop/CNN-Ranking-master/data/w2v/GoogleNews-vectors-negative300.bin'
 
 
 # ==============================================================
